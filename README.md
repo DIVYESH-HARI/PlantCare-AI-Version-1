@@ -1,6 +1,6 @@
-
-                    PLANTCARE AI - DISEASE DETECTION SYSTEM
-                        Installation & Configuration Guide
+# New Version Released! [here](https://github.com/DIVYESH-HARI/PlantCare-AI-Version-2)
+# PLANTCARE AI - DISEASE DETECTION SYSTEM
+# Installation & Configuration Guide
 
 
 INTRODUCTION
